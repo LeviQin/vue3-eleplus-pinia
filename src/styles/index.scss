@@ -1,0 +1,23 @@
+@import "./element-plus.scss";
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+#app {
+    height: 100%;
+}
+#header {
+    height: 60px;
+    background: #f1f3f4;
+}
+
+#menu {
+    background: #f1f3f4;
+    height: 100%;
+}

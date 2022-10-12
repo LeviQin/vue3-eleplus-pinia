@@ -1,5 +1,5 @@
 <template>
-  <div class="test">test</div>
+  <div id="menu">菜单占位</div>
 </template>
 
 <script setup>

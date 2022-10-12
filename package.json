@@ -1,5 +1,5 @@
 {
-  "name": "test-vue",
+  "name": "vue3-eleplus-pinia",
   "version": "0.1.0",
   "private": true,
   "scripts": {
